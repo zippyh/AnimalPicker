@@ -15,9 +15,9 @@ public class AnimalASCIIArt {
         }
 
         if(choice.equals("cat")) {
-            System.out.println("CAT ASCII ART HERE");
+            System.out.println(" _._     _,-\'\"\"`-._\n(,-.`._,\'(       |\\`-/|\n    `-.-\' \\ )-`( , o o)\n          `-    \\`_`\"\'-");
         } else {
-            System.out.println("DOG ASCII ART HERE");
+            System.out.println("           __\n      (___()\'`;\n      /,    /`\n      \\\\\"--\\\\");
         }
     }
 }
